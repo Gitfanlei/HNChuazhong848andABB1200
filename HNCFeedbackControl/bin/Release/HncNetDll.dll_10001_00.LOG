@@ -1,0 +1,437 @@
+20181221 16:20:06:682 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20181221 16:20:06:700 [INFO] WinSocket Start Success, version=2.2
+20181221 16:20:06:700 [INFO] Init listen socket success, ListenSocket=1208, UdpRecvSocket=1200, IP=192.168.1.193, Port=10001
+20181221 16:20:06:700 [INFO] Init Completion point success
+20181221 16:20:06:701 [INFO] Init Thread pool Success, thread count=10
+20181221 16:20:06:701 [INFO] Start thread TCPWatch
+20181221 16:20:06:701 [INFO] Start thread UDPWatch
+20181221 16:20:06:701 [INFO] Start thread DetectDeadConn
+20181221 16:20:06:712 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20181225 11:02:20:213 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20181225 11:02:20:231 [INFO] WinSocket Start Success, version=2.2
+20181225 11:02:20:231 [INFO] Init listen socket success, ListenSocket=1208, UdpRecvSocket=1232, IP=192.168.1.193, Port=10001
+20181225 11:02:20:231 [INFO] Init Completion point success
+20181225 11:02:20:233 [INFO] Init Thread pool Success, thread count=10
+20181225 11:02:20:233 [INFO] Start thread DetectDeadConn
+20181225 11:02:20:234 [INFO] Start thread TCPWatch
+20181225 11:02:20:234 [INFO] Start thread UDPWatch
+20181225 11:02:20:242 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20181225 11:02:54:625 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20181225 11:02:54:640 [INFO] WinSocket Start Success, version=2.2
+20181225 11:02:54:641 [INFO] Init listen socket success, ListenSocket=1224, UdpRecvSocket=1228, IP=192.168.1.193, Port=10001
+20181225 11:02:54:641 [INFO] Init Completion point success
+20181225 11:02:54:642 [INFO] Init Thread pool Success, thread count=10
+20181225 11:02:54:642 [INFO] Start thread TCPWatch
+20181225 11:02:54:642 [INFO] Start thread UDPWatch
+20181225 11:02:54:642 [INFO] Start thread DetectDeadConn
+20181225 11:02:54:654 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20181225 11:36:45:781 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20181225 11:36:45:801 [INFO] WinSocket Start Success, version=2.2
+20181225 11:36:45:801 [INFO] Init listen socket success, ListenSocket=1224, UdpRecvSocket=1228, IP=192.168.1.193, Port=10001
+20181225 11:36:45:801 [INFO] Init Completion point success
+20181225 11:36:45:802 [INFO] Init Thread pool Success, thread count=10
+20181225 11:36:45:802 [INFO] Start thread TCPWatch
+20181225 11:36:45:802 [INFO] Start thread UDPWatch
+20181225 11:36:45:802 [INFO] Start thread DetectDeadConn
+20181225 11:36:45:826 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20181225 11:36:50:199 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20181225 11:36:50:199 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20181225 14:48:12:327 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20181225 14:48:12:344 [INFO] WinSocket Start Success, version=2.2
+20181225 14:48:12:345 [INFO] Init listen socket success, ListenSocket=1160, UdpRecvSocket=1164, IP=192.168.1.193, Port=10001
+20181225 14:48:12:345 [INFO] Init Completion point success
+20181225 14:48:12:346 [INFO] Init Thread pool Success, thread count=10
+20181225 14:48:12:346 [INFO] Start thread TCPWatch
+20181225 14:48:12:346 [INFO] Start thread UDPWatch
+20181225 14:48:12:346 [INFO] Start thread DetectDeadConn
+20181225 14:48:12:355 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20181225 14:48:15:956 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20181225 14:48:15:956 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20181225 14:48:22:360 [INFO] *******************Call TCPExit*******************
+20181225 14:48:22:360 [INFO] DetectDeadConn thread exit
+20181225 14:48:22:360 [WARN] Close UdpRecSocket, socket=1164
+20181225 14:48:22:360 [INFO] UDPWatch thread exist
+20181225 14:48:22:360 [WARN] Close ListenSocket, socket=1160
+20181225 14:48:22:361 [WARN] accept failed, errno:10004
+20181225 14:48:22:361 [INFO] TCPWatch thread exist
+20181225 14:48:22:362 [INFO] Thread pool exit
+20181225 17:24:01:977 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20181225 17:24:01:994 [INFO] WinSocket Start Success, version=2.2
+20181225 17:24:01:994 [INFO] Init listen socket success, ListenSocket=1212, UdpRecvSocket=1216, IP=192.168.1.193, Port=10001
+20181225 17:24:01:994 [INFO] Init Completion point success
+20181225 17:24:01:995 [INFO] Init Thread pool Success, thread count=10
+20181225 17:24:01:996 [INFO] Start thread TCPWatch
+20181225 17:24:01:996 [INFO] Start thread UDPWatch
+20181225 17:24:01:996 [INFO] Start thread DetectDeadConn
+20181225 17:24:02:005 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20181225 17:26:52:017 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20181225 17:26:52:035 [INFO] WinSocket Start Success, version=2.2
+20181225 17:26:52:035 [INFO] Init listen socket success, ListenSocket=1228, UdpRecvSocket=1232, IP=192.168.1.193, Port=10001
+20181225 17:26:52:035 [INFO] Init Completion point success
+20181225 17:26:52:036 [INFO] Init Thread pool Success, thread count=10
+20181225 17:26:52:036 [INFO] Start thread DetectDeadConn
+20181225 17:26:52:037 [INFO] Start thread TCPWatch
+20181225 17:26:52:037 [INFO] Start thread UDPWatch
+20181225 17:26:52:056 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20181227 22:09:05:378 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20181227 22:09:05:393 [INFO] WinSocket Start Success, version=2.2
+20181227 22:09:05:393 [INFO] Init listen socket success, ListenSocket=1280, UdpRecvSocket=1284, IP=192.168.1.193, Port=10001
+20181227 22:09:05:393 [INFO] Init Completion point success
+20181227 22:09:05:395 [INFO] Init Thread pool Success, thread count=10
+20181227 22:09:05:396 [INFO] Start thread TCPWatch
+20181227 22:09:05:396 [INFO] Start thread UDPWatch
+20181227 22:09:05:396 [INFO] Start thread DetectDeadConn
+20181227 22:09:05:426 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 16:40:56:769 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 16:40:56:786 [INFO] WinSocket Start Success, version=2.2
+20190103 16:40:56:786 [INFO] Init listen socket success, ListenSocket=1284, UdpRecvSocket=1288, IP=192.168.1.193, Port=10001
+20190103 16:40:56:786 [INFO] Init Completion point success
+20190103 16:40:56:787 [INFO] Init Thread pool Success, thread count=10
+20190103 16:40:56:787 [INFO] Start thread TCPWatch
+20190103 16:40:56:787 [INFO] Start thread UDPWatch
+20190103 16:40:56:787 [INFO] Start thread DetectDeadConn
+20190103 16:40:56:797 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 16:42:29:960 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 16:42:29:976 [INFO] WinSocket Start Success, version=2.2
+20190103 16:42:29:976 [INFO] Init listen socket success, ListenSocket=1236, UdpRecvSocket=1200, IP=192.168.1.193, Port=10001
+20190103 16:42:29:976 [INFO] Init Completion point success
+20190103 16:42:29:978 [INFO] Init Thread pool Success, thread count=10
+20190103 16:42:29:979 [INFO] Start thread TCPWatch
+20190103 16:42:29:979 [INFO] Start thread UDPWatch
+20190103 16:42:29:979 [INFO] Start thread DetectDeadConn
+20190103 16:42:29:990 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 16:47:15:992 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 16:47:16:010 [INFO] WinSocket Start Success, version=2.2
+20190103 16:47:16:010 [INFO] Init listen socket success, ListenSocket=1268, UdpRecvSocket=1272, IP=192.168.1.193, Port=10001
+20190103 16:47:16:010 [INFO] Init Completion point success
+20190103 16:47:16:011 [INFO] Init Thread pool Success, thread count=10
+20190103 16:47:16:012 [INFO] Start thread TCPWatch
+20190103 16:47:16:012 [INFO] Start thread UDPWatch
+20190103 16:47:16:012 [INFO] Start thread DetectDeadConn
+20190103 16:47:16:022 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 16:48:41:813 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 16:48:41:830 [INFO] WinSocket Start Success, version=2.2
+20190103 16:48:41:830 [INFO] Init listen socket success, ListenSocket=1264, UdpRecvSocket=1268, IP=192.168.1.193, Port=10001
+20190103 16:48:41:830 [INFO] Init Completion point success
+20190103 16:48:41:831 [INFO] Init Thread pool Success, thread count=10
+20190103 16:48:41:833 [INFO] Start thread TCPWatch
+20190103 16:48:41:833 [INFO] Start thread UDPWatch
+20190103 16:48:41:833 [INFO] Start thread DetectDeadConn
+20190103 16:48:41:841 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 16:54:20:043 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 16:54:20:058 [INFO] WinSocket Start Success, version=2.2
+20190103 16:54:20:058 [INFO] Init listen socket success, ListenSocket=1288, UdpRecvSocket=1292, IP=192.168.1.193, Port=10001
+20190103 16:54:20:058 [INFO] Init Completion point success
+20190103 16:54:20:059 [INFO] Init Thread pool Success, thread count=10
+20190103 16:54:20:060 [INFO] Start thread UDPWatch
+20190103 16:54:20:060 [INFO] Start thread DetectDeadConn
+20190103 16:54:20:060 [INFO] Start thread TCPWatch
+20190103 16:54:20:105 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 16:55:28:115 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 16:55:28:132 [INFO] WinSocket Start Success, version=2.2
+20190103 16:55:28:132 [INFO] Init listen socket success, ListenSocket=1272, UdpRecvSocket=1276, IP=192.168.1.193, Port=10001
+20190103 16:55:28:132 [INFO] Init Completion point success
+20190103 16:55:28:133 [INFO] Init Thread pool Success, thread count=10
+20190103 16:55:28:134 [INFO] Start thread UDPWatch
+20190103 16:55:28:134 [INFO] Start thread TCPWatch
+20190103 16:55:28:134 [INFO] Start thread DetectDeadConn
+20190103 16:55:28:143 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 17:04:35:263 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 17:04:35:282 [INFO] WinSocket Start Success, version=2.2
+20190103 17:04:35:282 [INFO] Init listen socket success, ListenSocket=1292, UdpRecvSocket=1296, IP=192.168.1.193, Port=10001
+20190103 17:04:35:282 [INFO] Init Completion point success
+20190103 17:04:35:283 [INFO] Init Thread pool Success, thread count=10
+20190103 17:04:35:284 [INFO] Start thread TCPWatch
+20190103 17:04:35:284 [INFO] Start thread UDPWatch
+20190103 17:04:35:284 [INFO] Start thread DetectDeadConn
+20190103 17:04:35:292 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 17:09:27:140 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 17:09:27:154 [INFO] WinSocket Start Success, version=2.2
+20190103 17:09:27:154 [INFO] Init listen socket success, ListenSocket=1260, UdpRecvSocket=1264, IP=192.168.1.193, Port=10001
+20190103 17:09:27:154 [INFO] Init Completion point success
+20190103 17:09:27:155 [INFO] Init Thread pool Success, thread count=10
+20190103 17:09:27:156 [INFO] Start thread TCPWatch
+20190103 17:09:27:156 [INFO] Start thread UDPWatch
+20190103 17:09:27:156 [INFO] Start thread DetectDeadConn
+20190103 17:09:27:167 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 17:11:10:556 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 17:11:10:571 [INFO] WinSocket Start Success, version=2.2
+20190103 17:11:10:572 [INFO] Init listen socket success, ListenSocket=1268, UdpRecvSocket=1272, IP=192.168.1.193, Port=10001
+20190103 17:11:10:572 [INFO] Init Completion point success
+20190103 17:11:10:573 [INFO] Init Thread pool Success, thread count=10
+20190103 17:11:10:573 [INFO] Start thread TCPWatch
+20190103 17:11:10:573 [INFO] Start thread UDPWatch
+20190103 17:11:10:573 [INFO] Start thread DetectDeadConn
+20190103 17:11:10:583 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 17:12:08:179 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 17:12:08:195 [INFO] WinSocket Start Success, version=2.2
+20190103 17:12:08:196 [INFO] Init listen socket success, ListenSocket=1264, UdpRecvSocket=1268, IP=192.168.1.193, Port=10001
+20190103 17:12:08:196 [INFO] Init Completion point success
+20190103 17:12:08:197 [INFO] Init Thread pool Success, thread count=10
+20190103 17:12:08:197 [INFO] Start thread TCPWatch
+20190103 17:12:08:198 [INFO] Start thread UDPWatch
+20190103 17:12:08:198 [INFO] Start thread DetectDeadConn
+20190103 17:12:08:210 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 17:12:30:427 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 17:12:30:443 [INFO] WinSocket Start Success, version=2.2
+20190103 17:12:30:444 [INFO] Init listen socket success, ListenSocket=1260, UdpRecvSocket=1264, IP=192.168.1.193, Port=10001
+20190103 17:12:30:444 [INFO] Init Completion point success
+20190103 17:12:30:444 [INFO] Init Thread pool Success, thread count=10
+20190103 17:12:30:445 [INFO] Start thread TCPWatch
+20190103 17:12:30:445 [INFO] Start thread UDPWatch
+20190103 17:12:30:445 [INFO] Start thread DetectDeadConn
+20190103 17:12:30:454 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 17:12:49:605 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 17:12:49:620 [INFO] WinSocket Start Success, version=2.2
+20190103 17:12:49:620 [INFO] Init listen socket success, ListenSocket=1268, UdpRecvSocket=1272, IP=192.168.1.193, Port=10001
+20190103 17:12:49:621 [INFO] Init Completion point success
+20190103 17:12:49:622 [INFO] Init Thread pool Success, thread count=10
+20190103 17:12:49:622 [INFO] Start thread DetectDeadConn
+20190103 17:12:49:622 [INFO] Start thread TCPWatch
+20190103 17:12:49:622 [INFO] Start thread UDPWatch
+20190103 17:12:49:631 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 17:13:34:587 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 17:13:34:604 [INFO] WinSocket Start Success, version=2.2
+20190103 17:13:34:604 [INFO] Init listen socket success, ListenSocket=1264, UdpRecvSocket=1284, IP=192.168.1.193, Port=10001
+20190103 17:13:34:604 [INFO] Init Completion point success
+20190103 17:13:34:605 [INFO] Init Thread pool Success, thread count=10
+20190103 17:13:34:605 [INFO] Start thread TCPWatch
+20190103 17:13:34:605 [INFO] Start thread UDPWatch
+20190103 17:13:34:605 [INFO] Start thread DetectDeadConn
+20190103 17:13:34:615 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 17:15:46:482 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 17:15:46:497 [INFO] WinSocket Start Success, version=2.2
+20190103 17:15:46:497 [INFO] Init listen socket success, ListenSocket=1260, UdpRecvSocket=1264, IP=192.168.1.193, Port=10001
+20190103 17:15:46:497 [INFO] Init Completion point success
+20190103 17:15:46:498 [INFO] Init Thread pool Success, thread count=10
+20190103 17:15:46:499 [INFO] Start thread TCPWatch
+20190103 17:15:46:499 [INFO] Start thread UDPWatch
+20190103 17:15:46:499 [INFO] Start thread DetectDeadConn
+20190103 17:15:46:508 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 17:20:47:270 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 17:20:47:286 [INFO] WinSocket Start Success, version=2.2
+20190103 17:20:47:286 [INFO] Init listen socket success, ListenSocket=1276, UdpRecvSocket=1280, IP=192.168.1.193, Port=10001
+20190103 17:20:47:286 [INFO] Init Completion point success
+20190103 17:20:47:287 [INFO] Init Thread pool Success, thread count=10
+20190103 17:20:47:287 [INFO] Start thread TCPWatch
+20190103 17:20:47:287 [INFO] Start thread DetectDeadConn
+20190103 17:20:47:287 [INFO] Start thread UDPWatch
+20190103 17:20:47:298 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 19:11:46:143 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 19:11:46:171 [INFO] WinSocket Start Success, version=2.2
+20190103 19:11:46:172 [INFO] Init listen socket success, ListenSocket=1268, UdpRecvSocket=1272, IP=192.168.1.193, Port=10001
+20190103 19:11:46:172 [INFO] Init Completion point success
+20190103 19:11:46:172 [INFO] Init Thread pool Success, thread count=10
+20190103 19:11:46:173 [INFO] Start thread DetectDeadConn
+20190103 19:11:46:173 [INFO] Start thread UDPWatch
+20190103 19:11:46:184 [INFO] Start thread TCPWatch
+20190103 19:11:46:186 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 19:16:23:402 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 19:16:23:420 [INFO] WinSocket Start Success, version=2.2
+20190103 19:16:23:420 [INFO] Init listen socket success, ListenSocket=1264, UdpRecvSocket=1268, IP=192.168.1.193, Port=10001
+20190103 19:16:23:420 [INFO] Init Completion point success
+20190103 19:16:23:421 [INFO] Init Thread pool Success, thread count=10
+20190103 19:16:23:422 [INFO] Start thread TCPWatch
+20190103 19:16:23:422 [INFO] Start thread UDPWatch
+20190103 19:16:23:422 [INFO] Start thread DetectDeadConn
+20190103 19:16:23:433 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 19:21:08:833 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 19:21:08:848 [INFO] WinSocket Start Success, version=2.2
+20190103 19:21:08:849 [INFO] Init listen socket success, ListenSocket=1272, UdpRecvSocket=1276, IP=192.168.1.193, Port=10001
+20190103 19:21:08:849 [INFO] Init Completion point success
+20190103 19:21:08:849 [INFO] Init Thread pool Success, thread count=10
+20190103 19:21:08:850 [INFO] Start thread TCPWatch
+20190103 19:21:08:850 [INFO] Start thread UDPWatch
+20190103 19:21:08:850 [INFO] Start thread DetectDeadConn
+20190103 19:21:08:859 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 20:12:17:803 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 20:12:17:823 [INFO] WinSocket Start Success, version=2.2
+20190103 20:12:17:823 [INFO] Init listen socket success, ListenSocket=1228, UdpRecvSocket=1232, IP=192.168.1.193, Port=10001
+20190103 20:12:17:823 [INFO] Init Completion point success
+20190103 20:12:17:824 [INFO] Init Thread pool Success, thread count=10
+20190103 20:12:17:825 [INFO] Start thread TCPWatch
+20190103 20:12:17:825 [INFO] Start thread UDPWatch
+20190103 20:12:17:825 [INFO] Start thread DetectDeadConn
+20190103 20:12:17:837 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 20:12:32:131 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 20:12:32:150 [INFO] WinSocket Start Success, version=2.2
+20190103 20:12:32:150 [INFO] Init listen socket success, ListenSocket=1264, UdpRecvSocket=1268, IP=192.168.1.193, Port=10001
+20190103 20:12:32:150 [INFO] Init Completion point success
+20190103 20:12:32:151 [INFO] Init Thread pool Success, thread count=10
+20190103 20:12:32:151 [INFO] Start thread TCPWatch
+20190103 20:12:32:151 [INFO] Start thread UDPWatch
+20190103 20:12:32:151 [INFO] Start thread DetectDeadConn
+20190103 20:12:32:184 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 20:16:13:984 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 20:16:14:000 [INFO] WinSocket Start Success, version=2.2
+20190103 20:16:14:000 [INFO] Init listen socket success, ListenSocket=1268, UdpRecvSocket=1272, IP=192.168.1.193, Port=10001
+20190103 20:16:14:000 [INFO] Init Completion point success
+20190103 20:16:14:001 [INFO] Init Thread pool Success, thread count=10
+20190103 20:16:14:002 [INFO] Start thread TCPWatch
+20190103 20:16:14:002 [INFO] Start thread UDPWatch
+20190103 20:16:14:002 [INFO] Start thread DetectDeadConn
+20190103 20:16:14:015 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 20:16:49:653 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 20:16:49:670 [INFO] WinSocket Start Success, version=2.2
+20190103 20:16:49:670 [INFO] Init listen socket success, ListenSocket=1240, UdpRecvSocket=1244, IP=192.168.1.193, Port=10001
+20190103 20:16:49:670 [INFO] Init Completion point success
+20190103 20:16:49:671 [INFO] Init Thread pool Success, thread count=10
+20190103 20:16:49:672 [INFO] Start thread TCPWatch
+20190103 20:16:49:672 [INFO] Start thread UDPWatch
+20190103 20:16:49:672 [INFO] Start thread DetectDeadConn
+20190103 20:16:49:701 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 20:17:46:596 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 20:17:46:612 [INFO] WinSocket Start Success, version=2.2
+20190103 20:17:46:612 [INFO] Init listen socket success, ListenSocket=1268, UdpRecvSocket=1272, IP=192.168.1.193, Port=10001
+20190103 20:17:46:612 [INFO] Init Completion point success
+20190103 20:17:46:613 [INFO] Init Thread pool Success, thread count=10
+20190103 20:17:46:614 [INFO] Start thread TCPWatch
+20190103 20:17:46:614 [INFO] Start thread UDPWatch
+20190103 20:17:46:614 [INFO] Start thread DetectDeadConn
+20190103 20:17:46:644 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 20:18:41:045 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 20:18:41:060 [INFO] WinSocket Start Success, version=2.2
+20190103 20:18:41:061 [INFO] Init listen socket success, ListenSocket=720, UdpRecvSocket=1256, IP=192.168.1.193, Port=10001
+20190103 20:18:41:061 [INFO] Init Completion point success
+20190103 20:18:41:061 [INFO] Init Thread pool Success, thread count=10
+20190103 20:18:41:062 [INFO] Start thread TCPWatch
+20190103 20:18:41:062 [INFO] Start thread UDPWatch
+20190103 20:18:41:063 [INFO] Start thread DetectDeadConn
+20190103 20:18:41:072 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190103 20:19:15:123 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190103 20:19:15:137 [INFO] WinSocket Start Success, version=2.2
+20190103 20:19:15:138 [INFO] Init listen socket success, ListenSocket=1276, UdpRecvSocket=1280, IP=192.168.1.193, Port=10001
+20190103 20:19:15:138 [INFO] Init Completion point success
+20190103 20:19:15:139 [INFO] Init Thread pool Success, thread count=10
+20190103 20:19:15:139 [INFO] Start thread TCPWatch
+20190103 20:19:15:139 [INFO] Start thread UDPWatch
+20190103 20:19:15:139 [INFO] Start thread DetectDeadConn
+20190103 20:19:15:148 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190104 11:31:36:795 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190104 11:31:36:809 [INFO] WinSocket Start Success, version=2.2
+20190104 11:31:36:809 [INFO] Init listen socket success, ListenSocket=1256, UdpRecvSocket=1260, IP=192.168.1.193, Port=10001
+20190104 11:31:36:809 [INFO] Init Completion point success
+20190104 11:31:36:810 [INFO] Init Thread pool Success, thread count=10
+20190104 11:31:36:811 [INFO] Start thread TCPWatch
+20190104 11:31:36:811 [INFO] Start thread UDPWatch
+20190104 11:31:36:811 [INFO] Start thread DetectDeadConn
+20190104 11:31:36:821 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190108 09:43:47:682 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190108 09:43:47:700 [INFO] WinSocket Start Success, version=2.2
+20190108 09:43:47:701 [INFO] Init listen socket success, ListenSocket=1268, UdpRecvSocket=1272, IP=192.168.1.193, Port=10001
+20190108 09:43:47:701 [INFO] Init Completion point success
+20190108 09:43:47:702 [INFO] Init Thread pool Success, thread count=10
+20190108 09:43:47:702 [INFO] Start thread TCPWatch
+20190108 09:43:47:702 [INFO] Start thread UDPWatch
+20190108 09:43:47:703 [INFO] Start thread DetectDeadConn
+20190108 09:43:47:713 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190108 09:44:23:205 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190108 09:44:23:220 [INFO] WinSocket Start Success, version=2.2
+20190108 09:44:23:221 [INFO] Init listen socket success, ListenSocket=1216, UdpRecvSocket=1248, IP=192.168.1.193, Port=10001
+20190108 09:44:23:221 [INFO] Init Completion point success
+20190108 09:44:23:222 [INFO] Init Thread pool Success, thread count=10
+20190108 09:44:23:222 [INFO] Start thread TCPWatch
+20190108 09:44:23:222 [INFO] Start thread UDPWatch
+20190108 09:44:23:222 [INFO] Start thread DetectDeadConn
+20190108 09:44:23:235 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190108 09:44:46:555 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190108 09:44:46:571 [INFO] WinSocket Start Success, version=2.2
+20190108 09:44:46:571 [INFO] Init listen socket success, ListenSocket=1252, UdpRecvSocket=1260, IP=192.168.1.193, Port=10001
+20190108 09:44:46:571 [INFO] Init Completion point success
+20190108 09:44:46:572 [INFO] Init Thread pool Success, thread count=10
+20190108 09:44:46:573 [INFO] Start thread TCPWatch
+20190108 09:44:46:573 [INFO] Start thread UDPWatch
+20190108 09:44:46:573 [INFO] Start thread DetectDeadConn
+20190108 09:44:46:602 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190117 10:24:55:501 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190117 10:24:55:520 [INFO] WinSocket Start Success, version=2.2
+20190117 10:24:55:520 [INFO] Init listen socket success, ListenSocket=1264, UdpRecvSocket=1268, IP=192.168.1.193, Port=10001
+20190117 10:24:55:520 [INFO] Init Completion point success
+20190117 10:24:55:521 [INFO] Init Thread pool Success, thread count=10
+20190117 10:24:55:522 [INFO] Start thread TCPWatch
+20190117 10:24:55:522 [INFO] Start thread UDPWatch
+20190117 10:24:55:522 [INFO] Start thread DetectDeadConn
+20190117 10:24:55:532 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190127 09:36:25:545 [INFO] *******************Call TCPInit, IP=192.168.1.193, ListenPort=10001*******************
+20190127 09:36:25:564 [INFO] WinSocket Start Success, version=2.2
+20190127 09:36:25:565 [INFO] Init listen socket success, ListenSocket=1256, UdpRecvSocket=1260, IP=192.168.1.193, Port=10001
+20190127 09:36:25:565 [INFO] Init Completion point success
+20190127 09:36:25:565 [INFO] Init Thread pool Success, thread count=10
+20190127 09:36:25:565 [INFO] Start thread TCPWatch
+20190127 09:36:25:565 [INFO] Start thread UDPWatch
+20190127 09:36:25:566 [INFO] Start thread DetectDeadConn
+20190127 09:36:25:577 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190127 09:36:41:523 [WARN] Connect failed, wait get mirror id ack timeout, ip=192.168.1.175, port=10001
+20190127 09:36:41:523 [ERRO] NetConnect failed! TcpSend return errno = 103, ip = 192.168.1.175, port = 10001
+20190301 20:44:11:215 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190301 20:44:11:231 [INFO] WinSocket Start Success, version=2.2
+20190301 20:44:11:231 [INFO] Init listen socket success, ListenSocket=1276, UdpRecvSocket=1280, IP=192.168.1.194, Port=10001
+20190301 20:44:11:231 [INFO] Init Completion point success
+20190301 20:44:11:231 [INFO] Init Thread pool Success, thread count=10
+20190301 20:44:11:231 [INFO] Start thread DetectDeadConn
+20190301 20:44:11:232 [INFO] Start thread UDPWatch
+20190301 20:44:11:232 [INFO] Start thread TCPWatch
+20190301 20:44:11:238 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190301 22:04:23:283 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190301 22:04:23:298 [INFO] WinSocket Start Success, version=2.2
+20190301 22:04:23:298 [INFO] Init listen socket success, ListenSocket=1260, UdpRecvSocket=1264, IP=192.168.1.194, Port=10001
+20190301 22:04:23:298 [INFO] Init Completion point success
+20190301 22:04:23:299 [INFO] Init Thread pool Success, thread count=10
+20190301 22:04:23:299 [INFO] Start thread TCPWatch
+20190301 22:04:23:299 [INFO] Start thread UDPWatch
+20190301 22:04:23:299 [INFO] Start thread DetectDeadConn
+20190301 22:04:23:308 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190322 16:55:44:684 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190322 16:55:44:698 [INFO] WinSocket Start Success, version=2.2
+20190322 16:55:44:699 [INFO] Init listen socket success, ListenSocket=1288, UdpRecvSocket=1292, IP=192.168.1.194, Port=10001
+20190322 16:55:44:699 [INFO] Init Completion point success
+20190322 16:55:44:700 [INFO] Init Thread pool Success, thread count=10
+20190322 16:55:44:701 [INFO] Start thread DetectDeadConn
+20190322 16:55:44:701 [INFO] Start thread TCPWatch
+20190322 16:55:44:701 [INFO] Start thread UDPWatch
+20190322 16:55:44:710 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190325 16:45:42:050 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190325 16:45:42:064 [INFO] WinSocket Start Success, version=2.2
+20190325 16:45:42:064 [INFO] Init listen socket success, ListenSocket=1284, UdpRecvSocket=1276, IP=192.168.1.194, Port=10001
+20190325 16:45:42:064 [INFO] Init Completion point success
+20190325 16:45:42:066 [INFO] Init Thread pool Success, thread count=10
+20190325 16:45:42:067 [INFO] Start thread TCPWatch
+20190325 16:45:42:067 [INFO] Start thread UDPWatch
+20190325 16:45:42:067 [INFO] Start thread DetectDeadConn
+20190325 16:45:42:080 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190604 14:16:43:543 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190604 14:16:43:557 [INFO] WinSocket Start Success, version=2.2
+20190604 14:16:43:557 [INFO] Init listen socket success, ListenSocket=1300, UdpRecvSocket=1304, IP=192.168.1.194, Port=10001
+20190604 14:16:43:557 [INFO] Init Completion point success
+20190604 14:16:43:557 [INFO] Init Thread pool Success, thread count=10
+20190604 14:16:43:559 [INFO] Start thread UDPWatch
+20190604 14:16:43:559 [INFO] Start thread TCPWatch
+20190604 14:16:43:559 [INFO] Start thread DetectDeadConn
+20190604 14:16:43:572 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190604 14:16:57:588 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190604 14:16:57:602 [INFO] WinSocket Start Success, version=2.2
+20190604 14:16:57:602 [INFO] Init listen socket success, ListenSocket=1276, UdpRecvSocket=1280, IP=192.168.1.194, Port=10001
+20190604 14:16:57:602 [INFO] Init Completion point success
+20190604 14:16:57:602 [INFO] Init Thread pool Success, thread count=10
+20190604 14:16:57:603 [INFO] Start thread DetectDeadConn
+20190604 14:16:57:604 [INFO] Start thread TCPWatch
+20190604 14:16:57:604 [INFO] Start thread UDPWatch
+20190604 14:16:57:611 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190604 14:57:13:126 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190604 14:57:13:142 [INFO] WinSocket Start Success, version=2.2
+20190604 14:57:13:143 [INFO] Init listen socket success, ListenSocket=1256, UdpRecvSocket=1276, IP=192.168.1.194, Port=10001
+20190604 14:57:13:143 [INFO] Init Completion point success
+20190604 14:57:13:143 [INFO] Init Thread pool Success, thread count=10
+20190604 14:57:13:144 [INFO] Start thread TCPWatch
+20190604 14:57:13:144 [INFO] Start thread UDPWatch
+20190604 14:57:13:144 [INFO] Start thread DetectDeadConn
+20190604 14:57:13:156 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
+20190604 15:01:04:083 [INFO] *******************Call TCPInit, IP=192.168.1.194, ListenPort=10001*******************
+20190604 15:01:04:097 [INFO] WinSocket Start Success, version=2.2
+20190604 15:01:04:097 [INFO] Init listen socket success, ListenSocket=1288, UdpRecvSocket=1292, IP=192.168.1.194, Port=10001
+20190604 15:01:04:097 [INFO] Init Completion point success
+20190604 15:01:04:098 [INFO] Init Thread pool Success, thread count=10
+20190604 15:01:04:099 [INFO] Start thread TCPWatch
+20190604 15:01:04:099 [INFO] Start thread UDPWatch
+20190604 15:01:04:099 [INFO] Start thread DetectDeadConn
+20190604 15:01:04:105 [INFO] HNC_NetInit success! Dll version = 1.24.01.18423,SDK Plus version = 1.22.00.18423
